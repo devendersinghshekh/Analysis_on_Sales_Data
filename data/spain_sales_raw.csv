@@ -1,0 +1,501 @@
+order_id,order_date,customer_id,customer_name,product,category,quantity,unit_price,region,salesperson
+ES-00001,2025-03-27,CUST-0013,Víctor Domínguez,Tablet,Electronics,8,735.79,Madrid,Pablo García
+ES-00002,2025-04-18,CUST-0084,Mario Moreno,Smartphone,Electronics,3,1061.26,Navarre,Beatriz Martín
+ES-00003,2025-10-03,CUST-0062,Daniel Méndez,Mouse,Accessories,5,79.66,Navarre,Pablo García
+ES-00004,2025-12-18,CUST-0082,Alejandro Vidal,Smartphone,Electronics,1,731.19,Murcia,Alejandro Ruiz
+ES-00005,2025-02-07,CUST-0075,Pablo Pascual,Smartphone,Electronics,1,1082.93,Andalusia,Clara Molina
+ES-00006,2025-05-13,CUST-0003,Adrián Vega,Backpack,Accessories,2,83.14,Asturias,Miguel Torres
+ES-00007,2025-01-09,CUST-0065,Pablo Molina,Notebook,Stationery,2,4.77,Madrid,Pablo García
+ES-00008,2025-10-27,CUST-0018,Adrián García,Smartphone,Electronics,1,1139.66,Balearic Islands,Javier Ortega
+ES-00009,2025-05-29,CUST-0099,Laura Moreno,Tablet,Electronics,4,395.97,Andalusia,Eduardo Gómez
+ES-00010,2025-07-15,CUST-0100,Tomás Díaz,External SSD,Electronics,2,217.57,Cantabria,Carlos Navarro
+ES-00011,2025-03-11,CUST-0048,Silvia Navarro,Backpack,Accessories,4,124.61,Aragon,Pablo García
+ES-00012,2025-06-02,CUST-0044,Daniel Aguilar,Headphones,Electronics,3,276.68,Balearic Islands,Alejandro Ruiz
+ES-00013,2025-03-05,CUST-0018,Adrián García,Headphones,Electronics,1,187.91,Asturias,Javier Ortega
+ES-00014,2025-06-06,CUST-0041,Óscar Pascual,Smartphone,Electronics,1,1027.5,Balearic Islands,Diana Sánchez
+ES-00015,2025-11-27,CUST-0100,Tomás Díaz,Webcam,Electronics,5,55.51,Galicia,Diana Sánchez
+ES-00016,2025-04-10,CUST-0028,Lucía Durán,Desk Lamp,Office,1,69.67,Catalonia,Javier Ortega
+ES-00017,2025-11-27,CUST-0066,Elena Vega,External SSD,Electronics,3,128.76,Andalusia,Eduardo Gómez
+ES-00018,2025-04-12,CUST-0052,Adrián Pascual,Tablet,Electronics,4,529.78,Murcia,Laura Fernández
+ES-00019,2025-12-10,CUST-0065,Pablo Molina,Headphones,Electronics,3,65.01,Andalusia,Diana Sánchez
+ES-00020,2025-09-06,CUST-0028,Lucía Durán,Notebook,Stationery,2,12.25,Aragon,Elena Ramos
+ES-00021,2025-10-17,CUST-0084,Mario Moreno,Headphones,Electronics,3,249.0,Navarre,Carlos Navarro
+ES-00022,2025-06-10,CUST-0097,Claudia Torres,Laptop,Electronics,1,1120.53,Navarre,Eduardo Gómez
+ES-00023,2025-03-10,CUST-0073,Javier Crespo,Pen Set,Stationery,3,10.96,Cantabria,Sofía Romero
+ES-00024,2025-07-03,CUST-0091,Alicia Molina,External SSD,Electronics,4,175.87,Valencia,Carlos Navarro
+ES-00025,2025-05-24,CUST-0047,Carmen Blanco,Smartphone,Electronics,5,396.0,Castile and León,Eduardo Gómez
+ES-00026,2025-02-08,CUST-0096,Andrea Blanco,Smartphone,Electronics,6,1141.07,Madrid,Clara Molina
+ES-00027,2025-10-30,CUST-0025,Beatriz Rodríguez,Printer,Office,1,90.73,Castile-La Mancha,Javier Ortega
+ES-00028,2025-12-01,CUST-0045,Adrián Campos,USB-C Hub,Accessories,4,59.39,Canary Islands,Clara Molina
+ES-00029,2025-03-10,CUST-0087,Jorge Pérez,Desk,Office,2,303.16,Asturias,Laura Fernández
+ES-00030,2025-12-06,CUST-0003,Adrián Vega,Laptop,Electronics,1,1863.0,Galicia,Javier Ortega
+ES-00031,2025-08-17,CUST-0029,Óscar Moreno,Headphones,Electronics,1,186.25,Basque Country,Elena Ramos
+ES-00032,2025-07-03,CUST-0008,Hugo Medina,USB-C Hub,Accessories,1,96.58,Canary Islands,Beatriz Martín
+ES-00033,2025-07-09,CUST-0073,Javier Crespo,Desk Lamp,Office,1,69.48,La Rioja,Laura Fernández
+ES-00034,2025-08-29,CUST-0022,Pablo Vázquez,Printer,Office,6,361.1,Catalonia,Pablo García
+ES-00035,2025-02-22,CUST-0067,Ángel Romero,Notebook,Stationery,4,10.82,Castile-La Mancha,Elena Ramos
+ES-00036,2025-10-24,CUST-0098,Rubén Crespo,Desk Lamp,Office,3,31.39,Asturias,Laura Fernández
+ES-00037,2025-09-22,CUST-0048,Silvia Navarro,Smartphone,Electronics,1,1270.31,Canary Islands,Javier Ortega
+ES-00038,2025-06-30,CUST-0069,Ángel Prieto,Printer,Office,5,189.41,Cantabria,Clara Molina
+ES-00039,2025-09-14,CUST-0040,Beatriz Suárez,Laptop,Electronics,6,1338.9,Canary Islands,Beatriz Martín
+ES-00040,2025-04-19,CUST-0022,Pablo Vázquez,Desk Lamp,Office,1,30.12,Valencia,Pablo García
+ES-00041,2025-08-01,CUST-0040,Beatriz Suárez,Backpack,Accessories,5,115.43,Cantabria,Pablo García
+ES-00042,2025-09-03,CUST-0004,Paula González,USB-C Hub,Accessories,1,40.16,Navarre,Alejandro Ruiz
+ES-00043,2025-01-23,CUST-0075,Pablo Pascual,Backpack,Accessories,1,100.08,Basque Country,Pablo García
+ES-00044,2025-10-21,CUST-0044,Daniel Aguilar,Monitor,Electronics,1,223.85,Galicia,Javier Ortega
+ES-00045,2025-11-03,CUST-0062,Daniel Méndez,Printer,Office,8,283.04,Aragon,Beatriz Martín
+ES-00046,2025-08-18,CUST-0001,Silvia Pérez,Mouse,Accessories,3,48.3,Cantabria,Carlos Navarro
+ES-00047,2025-07-30,CUST-0075,Pablo Pascual,Backpack,Accessories,3,124.35,Galicia,Clara Molina
+ES-00048,2025-03-27,CUST-0083,Alicia Pérez,Desk Lamp,Office,4,44.39,Extremadura,Clara Molina
+ES-00049,2025-04-28,CUST-0076,Laura Vidal,Smartphone,Electronics,2,387.82,Madrid,Diana Sánchez
+ES-00050,2025-03-18,CUST-0060,Daniel Muñoz,Webcam,Electronics,3,60.55,Catalonia,Javier Ortega
+ES-00051,2025-02-17,CUST-0001,Silvia Pérez,Tablet,Electronics,2,272.84,Madrid,Pablo García
+ES-00052,2025-09-25,CUST-0048,Silvia Navarro,Webcam,Electronics,2,160.97,La Rioja,Miguel Torres
+ES-00053,2025-09-04,CUST-0014,Marcos Méndez,Backpack,Accessories,4,74.75,Valencia,Miguel Torres
+ES-00054,2025-05-11,CUST-0030,Diego Sanz,Headphones,Electronics,2,99.45,Andalusia,Eduardo Gómez
+ES-00055,2025-05-12,CUST-0063,Manuel Iglesias,Webcam,Electronics,1,137.12,Madrid,Clara Molina
+ES-00056,2025-09-24,CUST-0054,Paula Vidal,Tablet,Electronics,1,650.27,Murcia,Miguel Torres
+ES-00057,2025-02-24,CUST-0008,Hugo Medina,Pen Set,Stationery,1,17.68,Castile-La Mancha,Eduardo Gómez
+ES-00058,2025-10-17,CUST-0042,Rubén Navarro,Webcam,Electronics,2,74.68,Asturias,Diana Sánchez
+ES-00059,2025-10-10,CUST-0020,Rocío Medina,Webcam,Electronics,4,104.48,Balearic Islands,Javier Ortega
+ES-00060,2025-05-10,CUST-0063,Manuel Iglesias,USB-C Hub,Accessories,9,79.3,Asturias,Elena Ramos
+ES-00061,2025-12-04,CUST-0097,Claudia Torres,Headphones,Electronics,1,98.74,Galicia,Beatriz Martín
+ES-00062,2025-09-18,CUST-0053,Rocío Romero,Mouse,Accessories,2,38.06,Catalonia,Carlos Navarro
+ES-00063,2025-11-22,CUST-0050,Sergio Navarro,Printer,Office,1,108.15,Basque Country,Sofía Romero
+ES-00064,2025-02-15,CUST-0063,Manuel Iglesias,Webcam,Electronics,1,66.93,Andalusia,Clara Molina
+ES-00065,2025-07-16,CUST-0039,Paula Rodríguez,Monitor,Electronics,7,329.29,La Rioja,Eduardo Gómez
+ES-00066,2025-03-31,CUST-0048,Silvia Navarro,Monitor,Electronics,3,346.54,Castile and León,Pablo García
+ES-00067,2025-04-10,CUST-0075,Pablo Pascual,Desk,Office,1,338.81,La Rioja,Elena Ramos
+ES-00068,2025-11-11,CUST-0095,Carlos Pascual,Backpack,Accessories,1,33.33,Canary Islands,Pablo García
+ES-00069,2025-03-22,CUST-0022,Pablo Vázquez,Laptop,Electronics,1,1174.94,Asturias,Laura Fernández
+ES-00070,2025-07-27,CUST-0020,Rocío Medina,Printer,Office,3,244.68,Andalusia,Beatriz Martín
+ES-00071,2025-10-14,CUST-0033,Iván Marín,Desk,Office,6,238.24,Castile-La Mancha,Diana Sánchez
+ES-00072,2025-08-21,CUST-0043,Rubén Rubio,Mouse,Accessories,7,56.27,Castile-La Mancha,Carlos Navarro
+ES-00073,2025-09-17,CUST-0005,Ángel Rodríguez,Webcam,Electronics,1,45.42,Aragon,Laura Fernández
+ES-00074,2025-09-20,CUST-0002,María Carmona,Tablet,Electronics,8,809.8,Castile-La Mancha,Elena Ramos
+ES-00075,2025-07-13,CUST-0089,Laura Cabrera,External SSD,Electronics,3,243.79,Murcia,Sofía Romero
+ES-00076,2025-10-28,CUST-0017,Patricia Prieto,External SSD,Electronics,5,174.67,Castile-La Mancha,Beatriz Martín
+ES-00077,2025-11-21,CUST-0035,Marcos López,Printer,Office,4,149.52,Canary Islands,Laura Fernández
+ES-00078,2025-06-30,CUST-0072,Andrea Nieto,Webcam,Electronics,2,36.4,Castile-La Mancha,Diana Sánchez
+ES-00079,2025-02-17,CUST-0008,Hugo Medina,Desk,Office,2,398.52,Murcia,Beatriz Martín
+ES-00080,2025-09-01,CUST-0029,Óscar Moreno,Keyboard,Accessories,2,53.51,Castile-La Mancha,Carlos Navarro
+ES-00081,2025-09-13,CUST-0091,Alicia Molina,Mouse,Accessories,4,30.08,Canary Islands,Eduardo Gómez
+ES-00082,2025-04-28,CUST-0076,Laura Vidal,Mouse,Accessories,1,31.23,Balearic Islands,Carlos Navarro
+ES-00083,2025-03-03,CUST-0026,Cristina Rubio,Tablet,Electronics,6,665.58,Cantabria,Clara Molina
+ES-00084,2025-10-05,CUST-0037,Paula Pastor,Laptop,Electronics,8,1747.01,Balearic Islands,Clara Molina
+ES-00085,2025-09-10,CUST-0034,Isabel Domínguez,Notebook,Stationery,6,16.21,Castile-La Mancha,Sofía Romero
+ES-00086,2025-09-19,CUST-0002,María Carmona,Keyboard,Accessories,1,53.98,Basque Country,Alejandro Ruiz
+ES-00087,2025-09-02,CUST-0078,Carmen Sanz,Webcam,Electronics,7,39.69,Balearic Islands,Miguel Torres
+ES-00088,2025-08-23,CUST-0083,Alicia Pérez,Keyboard,Accessories,9,118.26,Extremadura,Laura Fernández
+ES-00089,2025-01-07,CUST-0023,Noelia Ortiz,Laptop,Electronics,3,1278.43,Valencia,Laura Fernández
+ES-00090,2025-11-10,CUST-0004,Paula González,Pen Set,Stationery,5,7.93,Castile-La Mancha,Diana Sánchez
+ES-00091,2025-08-30,CUST-0025,Beatriz Rodríguez,Desk Lamp,Office,8,44.42,Galicia,Sofía Romero
+ES-00092,2025-04-18,CUST-0003,Adrián Vega,Webcam,Electronics,2,143.32,Balearic Islands,Miguel Torres
+ES-00093,2025-08-19,CUST-0067,Ángel Romero,Desk Lamp,Office,1,28.1,Canary Islands,Beatriz Martín
+ES-00094,2025-05-01,CUST-0078,Carmen Sanz,Desk Lamp,Office,3,83.94,Castile and León,Carlos Navarro
+ES-00095,2025-08-31,CUST-0070,David Prieto,Headphones,Electronics,5,84.92,Cantabria,Carlos Navarro
+ES-00096,2025-09-07,CUST-0006,Mario Carmona,Notebook,Stationery,1,11.43,Catalonia,Miguel Torres
+ES-00097,2025-12-20,CUST-0097,Claudia Torres,Tablet,Electronics,1,334.14,Castile-La Mancha,Sofía Romero
+ES-00098,2025-08-19,CUST-0010,Javier Vázquez,Tablet,Electronics,4,366.03,Balearic Islands,Javier Ortega
+ES-00099,2025-06-26,CUST-0039,Paula Rodríguez,Desk Lamp,Office,1,27.34,Castile and León,Clara Molina
+ES-00100,2025-05-26,CUST-0060,Daniel Muñoz,Keyboard,Accessories,2,114.88,Cantabria,Elena Ramos
+ES-00101,2025-02-10,CUST-0008,Hugo Medina,External SSD,Electronics,2,127.77,Basque Country,Carlos Navarro
+ES-00102,2025-08-04,CUST-0002,María Carmona,Notebook,Stationery,3,11.57,Andalusia,Beatriz Martín
+ES-00103,2025-06-25,CUST-0029,Óscar Moreno,Keyboard,Accessories,1,66.78,Aragon,Elena Ramos
+ES-00104,2025-11-06,CUST-0012,Nuria Sánchez,Desk Lamp,Office,3,38.89,Extremadura,Laura Fernández
+ES-00105,2025-07-31,CUST-0100,Tomás Díaz,External SSD,Electronics,1,264.01,Basque Country,Elena Ramos
+ES-00106,2025-12-05,CUST-0080,Óscar Díaz,Backpack,Accessories,1,118.27,Andalusia,Diana Sánchez
+ES-00107,2025-07-23,CUST-0084,Mario Moreno,Keyboard,Accessories,1,32.61,Cantabria,Javier Ortega
+ES-00108,2025-01-14,CUST-0007,Teresa Martínez,Monitor,Electronics,4,384.79,Andalusia,Beatriz Martín
+ES-00109,2025-11-13,CUST-0096,Andrea Blanco,Desk Lamp,Office,1,68.42,Asturias,Eduardo Gómez
+ES-00110,2025-05-07,CUST-0096,Andrea Blanco,Backpack,Accessories,4,82.18,Basque Country,Carlos Navarro
+ES-00111,2025-01-15,CUST-0008,Hugo Medina,Keyboard,Accessories,1,72.17,Murcia,Sofía Romero
+ES-00112,2025-10-04,CUST-0074,Álvaro Pérez,External SSD,Electronics,7,190.65,Basque Country,Elena Ramos
+ES-00113,2025-10-30,CUST-0036,Lucía Aguilar,Keyboard,Accessories,3,109.19,Navarre,Javier Ortega
+ES-00114,2025-06-27,CUST-0072,Andrea Nieto,Desk,Office,2,189.85,Andalusia,Sofía Romero
+ES-00115,2025-07-07,CUST-0063,Manuel Iglesias,Desk,Office,2,161.29,Madrid,Alejandro Ruiz
+ES-00116,2025-06-26,CUST-0033,Iván Marín,Headphones,Electronics,1,178.13,Cantabria,Sofía Romero
+ES-00117,2025-01-05,CUST-0036,Lucía Aguilar,Desk,Office,4,418.19,Canary Islands,Alejandro Ruiz
+ES-00118,2025-04-07,CUST-0074,Álvaro Pérez,Pen Set,Stationery,2,15.77,Asturias,Diana Sánchez
+ES-00119,2025-11-27,CUST-0035,Marcos López,Keyboard,Accessories,2,75.08,Castile-La Mancha,Beatriz Martín
+ES-00120,2025-11-17,CUST-0054,Paula Vidal,Webcam,Electronics,1,145.09,Castile-La Mancha,Eduardo Gómez
+ES-00121,2025-07-31,CUST-0094,Sofía Pascual,Desk Lamp,Office,1,23.27,Basque Country,Eduardo Gómez
+ES-00122,2025-11-23,CUST-0037,Paula Pastor,Tablet,Electronics,2,504.99,Cantabria,Diana Sánchez
+ES-00123,2025-01-10,CUST-0011,Paula Herrera,Notebook,Stationery,1,17.55,Madrid,Carlos Navarro
+ES-00124,2025-05-25,CUST-0001,Silvia Pérez,Tablet,Electronics,1,693.94,Madrid,Diana Sánchez
+ES-00125,2025-03-19,CUST-0091,Alicia Molina,Smartphone,Electronics,1,477.05,Navarre,Eduardo Gómez
+ES-00126,2025-07-10,CUST-0029,Óscar Moreno,USB-C Hub,Accessories,2,99.39,Murcia,Beatriz Martín
+ES-00127,2025-01-29,CUST-0050,Sergio Navarro,Headphones,Electronics,1,141.03,Cantabria,Carlos Navarro
+ES-00128,2025-05-09,CUST-0039,Paula Rodríguez,Mouse,Accessories,5,75.78,Valencia,Elena Ramos
+ES-00129,2025-07-17,CUST-0045,Adrián Campos,Backpack,Accessories,4,82.16,Catalonia,Diana Sánchez
+ES-00130,2025-02-18,CUST-0025,Beatriz Rodríguez,External SSD,Electronics,2,294.71,Cantabria,Miguel Torres
+ES-00131,2025-06-15,CUST-0005,Ángel Rodríguez,Desk,Office,1,390.29,La Rioja,Beatriz Martín
+ES-00132,2025-09-04,CUST-0021,Jorge Suárez,Desk Lamp,Office,3,33.3,Catalonia,Pablo García
+ES-00133,2025-02-27,CUST-0092,Andrea Crespo,Mouse,Accessories,1,45.43,Madrid,Carlos Navarro
+ES-00134,2025-10-27,CUST-0009,Lucía Sánchez,Desk Lamp,Office,1,78.76,Madrid,Alejandro Ruiz
+ES-00135,2025-12-19,CUST-0049,Teresa Durán,USB-C Hub,Accessories,3,59.91,Andalusia,Diana Sánchez
+ES-00136,2025-09-13,CUST-0080,Óscar Díaz,Keyboard,Accessories,1,107.52,Catalonia,Alejandro Ruiz
+ES-00137,2025-11-27,CUST-0016,Natalia Ramos,Pen Set,Stationery,1,15.26,Valencia,Carlos Navarro
+ES-00138,2025-04-30,CUST-0096,Andrea Blanco,USB-C Hub,Accessories,2,77.48,Balearic Islands,Sofía Romero
+ES-00139,2025-01-11,CUST-0065,Pablo Molina,Mouse,Accessories,3,39.58,Basque Country,Eduardo Gómez
+ES-00140,2025-09-06,CUST-0040,Beatriz Suárez,Monitor,Electronics,4,400.56,Cantabria,Diana Sánchez
+ES-00141,2025-10-06,CUST-0042,Rubén Navarro,Keyboard,Accessories,2,122.87,Castile-La Mancha,Clara Molina
+ES-00142,2025-02-05,CUST-0069,Ángel Prieto,Keyboard,Accessories,2,84.67,Castile-La Mancha,Javier Ortega
+ES-00143,2025-08-21,CUST-0012,Nuria Sánchez,Pen Set,Stationery,1,17.4,Asturias,Elena Ramos
+ES-00144,2025-01-10,CUST-0098,Rubén Crespo,Keyboard,Accessories,3,73.15,Canary Islands,Laura Fernández
+ES-00145,2025-12-04,CUST-0014,Marcos Méndez,Smartphone,Electronics,8,1109.0,Castile and León,Javier Ortega
+ES-00146,2025-10-10,CUST-0038,Irene Martínez,USB-C Hub,Accessories,1,51.61,Navarre,Pablo García
+ES-00147,2025-02-26,CUST-0098,Rubén Crespo,Notebook,Stationery,1,12.88,Catalonia,Carlos Navarro
+ES-00148,2025-01-17,CUST-0061,Marcos Delgado,Keyboard,Accessories,1,89.52,Valencia,Alejandro Ruiz
+ES-00149,2025-12-03,CUST-0094,Sofía Pascual,Printer,Office,2,278.67,Castile-La Mancha,Alejandro Ruiz
+ES-00150,2025-04-24,CUST-0068,Teresa Molina,Pen Set,Stationery,3,5.49,Castile and León,Pablo García
+ES-00151,2025-02-10,CUST-0004,Paula González,USB-C Hub,Accessories,2,85.06,Balearic Islands,Javier Ortega
+ES-00152,2025-07-08,CUST-0019,Noelia Navarro,Webcam,Electronics,4,43.4,Castile-La Mancha,Javier Ortega
+ES-00153,2025-02-06,CUST-0074,Álvaro Pérez,Monitor,Electronics,5,184.07,Castile and León,Javier Ortega
+ES-00154,2025-02-21,CUST-0088,Irene Medina,Tablet,Electronics,4,561.8,Castile and León,Diana Sánchez
+ES-00155,2025-10-19,CUST-0036,Lucía Aguilar,Backpack,Accessories,3,50.47,Navarre,Elena Ramos
+ES-00156,2025-11-23,CUST-0061,Marcos Delgado,Tablet,Electronics,3,664.63,Navarre,Beatriz Martín
+ES-00157,2025-04-03,CUST-0051,Óscar Sanz,Keyboard,Accessories,3,92.13,Galicia,Javier Ortega
+ES-00158,2025-06-30,CUST-0034,Isabel Domínguez,External SSD,Electronics,6,191.02,Murcia,Laura Fernández
+ES-00159,2025-11-21,CUST-0031,Javier Romero,Webcam,Electronics,2,139.52,Canary Islands,Clara Molina
+ES-00160,2025-07-12,CUST-0091,Alicia Molina,Mouse,Accessories,4,83.31,Castile-La Mancha,Laura Fernández
+ES-00161,2025-08-18,CUST-0030,Diego Sanz,External SSD,Electronics,8,59.05,Catalonia,Eduardo Gómez
+ES-00162,2025-09-23,CUST-0004,Paula González,Laptop,Electronics,1,1789.32,Madrid,Eduardo Gómez
+ES-00163,2025-04-20,CUST-0059,Adrián López,Backpack,Accessories,5,31.6,Castile-La Mancha,Javier Ortega
+ES-00164,2025-02-18,CUST-0061,Marcos Delgado,Headphones,Electronics,1,131.47,Basque Country,Eduardo Gómez
+ES-00165,2025-10-26,CUST-0061,Marcos Delgado,Pen Set,Stationery,1,9.38,Aragon,Beatriz Martín
+ES-00166,2025-10-19,CUST-0034,Isabel Domínguez,Printer,Office,6,313.97,Murcia,Sofía Romero
+ES-00167,2025-09-07,CUST-0089,Laura Cabrera,Keyboard,Accessories,5,117.1,Valencia,Clara Molina
+ES-00168,2025-01-20,CUST-0075,Pablo Pascual,Desk,Office,4,329.51,Andalusia,Alejandro Ruiz
+ES-00169,2025-06-28,CUST-0018,Adrián García,Notebook,Stationery,6,9.51,Valencia,Diana Sánchez
+ES-00170,2025-11-21,CUST-0025,Beatriz Rodríguez,Laptop,Electronics,4,1281.49,Aragon,Javier Ortega
+ES-00171,2025-06-13,CUST-0063,Manuel Iglesias,Monitor,Electronics,2,216.31,La Rioja,Elena Ramos
+ES-00172,2025-03-20,CUST-0027,Nuria Molina,Backpack,Accessories,1,116.79,Asturias,Sofía Romero
+ES-00173,2025-04-24,CUST-0043,Rubén Rubio,Smartphone,Electronics,2,1074.69,Basque Country,Carlos Navarro
+ES-00174,2025-02-12,CUST-0063,Manuel Iglesias,Notebook,Stationery,2,14.18,Asturias,Eduardo Gómez
+ES-00175,2025-07-24,CUST-0093,Miguel Herrera,Smartphone,Electronics,2,1061.52,Basque Country,Carlos Navarro
+ES-00176,2025-10-14,CUST-0051,Óscar Sanz,USB-C Hub,Accessories,1,62.16,Castile and León,Javier Ortega
+ES-00177,2025-05-05,CUST-0034,Isabel Domínguez,Backpack,Accessories,1,122.21,Murcia,Pablo García
+ES-00178,2025-02-27,CUST-0058,Ana Iglesias,Smartphone,Electronics,3,693.72,Balearic Islands,Diana Sánchez
+ES-00179,2025-06-26,CUST-0056,Tomás Fernández,Notebook,Stationery,3,3.36,Aragon,Carlos Navarro
+ES-00180,2025-11-12,CUST-0051,Óscar Sanz,Pen Set,Stationery,5,20.86,Basque Country,Sofía Romero
+ES-00181,2025-04-30,CUST-0044,Daniel Aguilar,Monitor,Electronics,1,317.22,Andalusia,Beatriz Martín
+ES-00182,2025-05-05,CUST-0077,David Blanco,Monitor,Electronics,7,566.03,Aragon,Alejandro Ruiz
+ES-00183,2025-12-22,CUST-0005,Ángel Rodríguez,Notebook,Stationery,5,7.58,Cantabria,Alejandro Ruiz
+ES-00184,2025-04-18,CUST-0076,Laura Vidal,Notebook,Stationery,4,6.18,La Rioja,Eduardo Gómez
+ES-00185,2025-11-15,CUST-0068,Teresa Molina,USB-C Hub,Accessories,4,38.29,Madrid,Miguel Torres
+ES-00186,2025-05-11,CUST-0094,Sofía Pascual,Monitor,Electronics,1,276.81,Castile-La Mancha,Alejandro Ruiz
+ES-00187,2025-12-02,CUST-0007,Teresa Martínez,External SSD,Electronics,7,74.98,Castile-La Mancha,Pablo García
+ES-00188,2025-02-25,CUST-0030,Diego Sanz,Pen Set,Stationery,1,22.22,Asturias,Diana Sánchez
+ES-00189,2025-09-18,CUST-0026,Cristina Rubio,Printer,Office,9,110.87,Murcia,Sofía Romero
+ES-00190,2025-04-06,CUST-0095,Carlos Pascual,Smartphone,Electronics,1,1264.13,Madrid,Alejandro Ruiz
+ES-00191,2025-09-29,CUST-0020,Rocío Medina,Backpack,Accessories,2,87.79,Galicia,Alejandro Ruiz
+ES-00192,2025-12-17,CUST-0099,Laura Moreno,Pen Set,Stationery,2,17.13,Canary Islands,Javier Ortega
+ES-00193,2025-02-01,CUST-0058,Ana Iglesias,Desk Lamp,Office,3,85.66,Madrid,Javier Ortega
+ES-00194,2025-04-26,CUST-0026,Cristina Rubio,Desk Lamp,Office,1,87.08,Basque Country,Beatriz Martín
+ES-00195,2025-09-24,CUST-0014,Marcos Méndez,Printer,Office,8,274.98,Canary Islands,Miguel Torres
+ES-00196,2025-10-21,CUST-0036,Lucía Aguilar,Backpack,Accessories,1,145.46,Murcia,Sofía Romero
+ES-00197,2025-04-16,CUST-0061,Marcos Delgado,Headphones,Electronics,3,190.07,Castile and León,Carlos Navarro
+ES-00198,2025-12-19,CUST-0100,Tomás Díaz,Desk,Office,4,308.52,Basque Country,Miguel Torres
+ES-00199,2025-12-02,CUST-0027,Nuria Molina,Headphones,Electronics,7,277.45,Murcia,Beatriz Martín
+ES-00200,2025-04-05,CUST-0026,Cristina Rubio,Tablet,Electronics,2,812.34,Madrid,Laura Fernández
+ES-00201,2025-07-30,CUST-0052,Adrián Pascual,Webcam,Electronics,2,142.37,Castile-La Mancha,Carlos Navarro
+ES-00202,2025-02-24,CUST-0045,Adrián Campos,Mouse,Accessories,1,14.02,Castile-La Mancha,Clara Molina
+ES-00203,2025-11-02,CUST-0024,Sofía Martínez,Backpack,Accessories,1,111.49,Balearic Islands,Beatriz Martín
+ES-00204,2025-03-10,CUST-0018,Adrián García,USB-C Hub,Accessories,2,81.84,Balearic Islands,Carlos Navarro
+ES-00205,2025-09-09,CUST-0009,Lucía Sánchez,Printer,Office,2,131.41,Canary Islands,Alejandro Ruiz
+ES-00206,2025-01-08,CUST-0059,Adrián López,Webcam,Electronics,7,171.83,Canary Islands,Elena Ramos
+ES-00207,2025-04-15,CUST-0023,Noelia Ortiz,Mouse,Accessories,1,83.39,Extremadura,Clara Molina
+ES-00208,2025-12-19,CUST-0031,Javier Romero,USB-C Hub,Accessories,2,68.01,Canary Islands,Miguel Torres
+ES-00209,2025-01-22,CUST-0025,Beatriz Rodríguez,Printer,Office,3,342.79,Murcia,Miguel Torres
+ES-00210,2025-09-24,CUST-0076,Laura Vidal,Monitor,Electronics,1,354.61,Catalonia,Diana Sánchez
+ES-00211,2025-01-21,CUST-0043,Rubén Rubio,Printer,Office,3,244.16,Catalonia,Diana Sánchez
+ES-00212,2025-08-14,CUST-0013,Víctor Domínguez,Desk,Office,2,220.82,Aragon,Sofía Romero
+ES-00213,2025-08-05,CUST-0018,Adrián García,Keyboard,Accessories,1,148.07,La Rioja,Carlos Navarro
+ES-00214,2025-11-27,CUST-0023,Noelia Ortiz,External SSD,Electronics,2,232.44,Valencia,Carlos Navarro
+ES-00215,2025-07-21,CUST-0091,Alicia Molina,Headphones,Electronics,2,156.23,Galicia,Sofía Romero
+ES-00216,2025-08-21,CUST-0095,Carlos Pascual,Mouse,Accessories,1,36.95,Galicia,Elena Ramos
+ES-00217,2025-02-16,CUST-0035,Marcos López,Tablet,Electronics,1,502.57,Balearic Islands,Beatriz Martín
+ES-00218,2025-09-19,CUST-0052,Adrián Pascual,Printer,Office,3,130.17,Asturias,Alejandro Ruiz
+ES-00219,2025-06-21,CUST-0075,Pablo Pascual,Keyboard,Accessories,3,113.04,Basque Country,Carlos Navarro
+ES-00220,2025-04-02,CUST-0049,Teresa Durán,Headphones,Electronics,4,52.34,Aragon,Eduardo Gómez
+ES-00221,2025-05-28,CUST-0081,Marta Romero,External SSD,Electronics,3,87.21,Basque Country,Diana Sánchez
+ES-00222,2025-11-15,CUST-0073,Javier Crespo,Laptop,Electronics,4,911.21,Cantabria,Sofía Romero
+ES-00223,2025-11-08,CUST-0054,Paula Vidal,Laptop,Electronics,6,1136.88,Cantabria,Sofía Romero
+ES-00224,2025-08-15,CUST-0032,Irene Pascual,Webcam,Electronics,1,121.41,Canary Islands,Javier Ortega
+ES-00225,2025-11-14,CUST-0044,Daniel Aguilar,Desk Lamp,Office,3,81.15,Castile and León,Alejandro Ruiz
+ES-00226,2025-03-17,CUST-0057,Paula Gómez,Keyboard,Accessories,1,71.12,Basque Country,Alejandro Ruiz
+ES-00227,2025-06-19,CUST-0022,Pablo Vázquez,Desk,Office,6,118.61,Navarre,Carlos Navarro
+ES-00228,2025-12-11,CUST-0057,Paula Gómez,Keyboard,Accessories,1,113.22,Galicia,Sofía Romero
+ES-00229,2025-01-19,CUST-0012,Nuria Sánchez,Pen Set,Stationery,1,10.29,Balearic Islands,Miguel Torres
+ES-00230,2025-08-07,CUST-0050,Sergio Navarro,Smartphone,Electronics,5,317.17,Cantabria,Carlos Navarro
+ES-00231,2025-12-22,CUST-0092,Andrea Crespo,Tablet,Electronics,5,416.03,Navarre,Javier Ortega
+ES-00232,2025-12-23,CUST-0024,Sofía Martínez,Mouse,Accessories,1,16.48,La Rioja,Beatriz Martín
+ES-00233,2025-12-19,CUST-0087,Jorge Pérez,USB-C Hub,Accessories,3,99.09,Aragon,Miguel Torres
+ES-00234,2025-05-13,CUST-0077,David Blanco,Notebook,Stationery,2,17.93,Balearic Islands,Carlos Navarro
+ES-00235,2025-09-24,CUST-0084,Mario Moreno,USB-C Hub,Accessories,4,71.79,Galicia,Clara Molina
+ES-00236,2025-12-29,CUST-0007,Teresa Martínez,Backpack,Accessories,1,52.23,Valencia,Alejandro Ruiz
+ES-00237,2025-11-17,CUST-0072,Andrea Nieto,External SSD,Electronics,4,235.99,Castile and León,Clara Molina
+ES-00238,2025-07-31,CUST-0013,Víctor Domínguez,Webcam,Electronics,1,85.35,Castile and León,Alejandro Ruiz
+ES-00239,2025-12-20,CUST-0016,Natalia Ramos,Mouse,Accessories,1,72.85,Aragon,Eduardo Gómez
+ES-00240,2025-01-04,CUST-0090,Alejandro Durán,Notebook,Stationery,1,8.0,Asturias,Elena Ramos
+ES-00241,2025-03-31,CUST-0059,Adrián López,Laptop,Electronics,1,1732.83,Cantabria,Sofía Romero
+ES-00242,2025-11-27,CUST-0083,Alicia Pérez,Monitor,Electronics,1,218.92,Extremadura,Javier Ortega
+ES-00243,2025-08-25,CUST-0046,Mario Méndez,Notebook,Stationery,4,9.21,Catalonia,Javier Ortega
+ES-00244,2025-10-17,CUST-0075,Pablo Pascual,Desk,Office,4,225.2,Madrid,Diana Sánchez
+ES-00245,2025-07-01,CUST-0051,Óscar Sanz,Notebook,Stationery,1,5.24,Madrid,Laura Fernández
+ES-00246,2025-11-17,CUST-0088,Irene Medina,Printer,Office,2,132.11,Asturias,Carlos Navarro
+ES-00247,2025-06-07,CUST-0066,Elena Vega,Tablet,Electronics,4,405.44,Catalonia,Eduardo Gómez
+ES-00248,2025-02-14,CUST-0039,Paula Rodríguez,Webcam,Electronics,2,69.22,Extremadura,Eduardo Gómez
+ES-00249,2025-09-26,CUST-0054,Paula Vidal,Mouse,Accessories,2,20.64,Catalonia,Diana Sánchez
+ES-00250,2025-08-16,CUST-0074,Álvaro Pérez,Smartphone,Electronics,2,1087.98,La Rioja,Carlos Navarro
+ES-00251,2025-06-24,CUST-0073,Javier Crespo,Mouse,Accessories,6,68.4,La Rioja,Eduardo Gómez
+ES-00252,2025-03-15,CUST-0017,Patricia Prieto,Notebook,Stationery,4,4.47,La Rioja,Pablo García
+ES-00253,2025-04-16,CUST-0098,Rubén Crespo,Headphones,Electronics,4,158.44,La Rioja,Beatriz Martín
+ES-00254,2025-06-09,CUST-0036,Lucía Aguilar,Laptop,Electronics,7,1586.05,Andalusia,Laura Fernández
+ES-00255,2025-01-24,CUST-0074,Álvaro Pérez,External SSD,Electronics,1,242.88,Aragon,Alejandro Ruiz
+ES-00256,2025-11-24,CUST-0081,Marta Romero,Desk,Office,6,227.35,Castile and León,Eduardo Gómez
+ES-00257,2025-09-30,CUST-0065,Pablo Molina,Desk Lamp,Office,2,51.97,Valencia,Eduardo Gómez
+ES-00258,2025-03-22,CUST-0029,Óscar Moreno,Headphones,Electronics,1,42.97,La Rioja,Beatriz Martín
+ES-00259,2025-10-05,CUST-0073,Javier Crespo,Mouse,Accessories,2,36.52,Basque Country,Elena Ramos
+ES-00260,2025-10-21,CUST-0003,Adrián Vega,Desk,Office,1,127.5,Murcia,Javier Ortega
+ES-00261,2025-01-26,CUST-0066,Elena Vega,External SSD,Electronics,1,171.98,Catalonia,Beatriz Martín
+ES-00262,2025-01-28,CUST-0067,Ángel Romero,Printer,Office,1,204.41,Extremadura,Clara Molina
+ES-00263,2025-06-09,CUST-0082,Alejandro Vidal,Pen Set,Stationery,2,8.16,Andalusia,Sofía Romero
+ES-00264,2025-02-17,CUST-0013,Víctor Domínguez,Headphones,Electronics,5,278.12,Extremadura,Beatriz Martín
+ES-00265,2025-06-08,CUST-0050,Sergio Navarro,External SSD,Electronics,3,229.45,Extremadura,Sofía Romero
+ES-00266,2025-04-25,CUST-0061,Marcos Delgado,Backpack,Accessories,1,136.48,Castile-La Mancha,Laura Fernández
+ES-00267,2025-04-04,CUST-0050,Sergio Navarro,Printer,Office,3,291.86,Murcia,Sofía Romero
+ES-00268,2025-01-16,CUST-0082,Alejandro Vidal,USB-C Hub,Accessories,1,35.61,Cantabria,Sofía Romero
+ES-00269,2025-05-25,CUST-0022,Pablo Vázquez,Keyboard,Accessories,4,105.6,Basque Country,Javier Ortega
+ES-00270,2025-07-27,CUST-0098,Rubén Crespo,Tablet,Electronics,5,752.67,Murcia,Javier Ortega
+ES-00271,2025-06-04,CUST-0007,Teresa Martínez,Smartphone,Electronics,2,669.86,Navarre,Diana Sánchez
+ES-00272,2025-10-08,CUST-0043,Rubén Rubio,Backpack,Accessories,1,86.88,Andalusia,Laura Fernández
+ES-00273,2025-12-22,CUST-0084,Mario Moreno,Mouse,Accessories,3,72.39,Navarre,Clara Molina
+ES-00274,2025-10-06,CUST-0065,Pablo Molina,Notebook,Stationery,3,5.6,Andalusia,Elena Ramos
+ES-00275,2025-02-28,CUST-0053,Rocío Romero,USB-C Hub,Accessories,3,68.51,Valencia,Sofía Romero
+ES-00276,2025-06-07,CUST-0016,Natalia Ramos,Keyboard,Accessories,8,33.4,Valencia,Pablo García
+ES-00277,2025-06-17,CUST-0046,Mario Méndez,Printer,Office,2,290.25,Andalusia,Diana Sánchez
+ES-00278,2025-10-25,CUST-0040,Beatriz Suárez,Headphones,Electronics,6,204.39,Madrid,Carlos Navarro
+ES-00279,2025-08-20,CUST-0090,Alejandro Durán,Headphones,Electronics,2,140.4,Extremadura,Diana Sánchez
+ES-00280,2025-12-15,CUST-0098,Rubén Crespo,Mouse,Accessories,6,35.08,Aragon,Miguel Torres
+ES-00281,2025-02-15,CUST-0001,Silvia Pérez,Pen Set,Stationery,3,16.84,La Rioja,Miguel Torres
+ES-00282,2025-05-31,CUST-0084,Mario Moreno,Headphones,Electronics,1,273.28,Catalonia,Alejandro Ruiz
+ES-00283,2025-02-26,CUST-0019,Noelia Navarro,Pen Set,Stationery,5,22.18,Canary Islands,Miguel Torres
+ES-00284,2025-11-17,CUST-0088,Irene Medina,Printer,Office,2,201.49,Asturias,Miguel Torres
+ES-00285,2025-12-06,CUST-0084,Mario Moreno,Mouse,Accessories,1,22.71,Asturias,Laura Fernández
+ES-00286,2025-03-20,CUST-0053,Rocío Romero,Webcam,Electronics,1,160.67,Basque Country,Carlos Navarro
+ES-00287,2025-02-06,CUST-0010,Javier Vázquez,Laptop,Electronics,3,1043.0,Cantabria,Pablo García
+ES-00288,2025-03-11,CUST-0001,Silvia Pérez,Webcam,Electronics,1,127.48,Navarre,Sofía Romero
+ES-00289,2025-11-16,CUST-0017,Patricia Prieto,Webcam,Electronics,1,108.36,Extremadura,Miguel Torres
+ES-00290,2025-04-26,CUST-0096,Andrea Blanco,Pen Set,Stationery,1,16.7,Cantabria,Elena Ramos
+ES-00291,2025-12-31,CUST-0012,Nuria Sánchez,Backpack,Accessories,2,78.3,Balearic Islands,Alejandro Ruiz
+ES-00292,2025-10-18,CUST-0077,David Blanco,Monitor,Electronics,2,314.86,Cantabria,Elena Ramos
+ES-00293,2025-03-14,CUST-0017,Patricia Prieto,Smartphone,Electronics,4,801.73,Castile-La Mancha,Sofía Romero
+ES-00294,2025-09-25,CUST-0037,Paula Pastor,Smartphone,Electronics,6,341.87,Cantabria,Pablo García
+ES-00295,2025-12-17,CUST-0100,Tomás Díaz,Smartphone,Electronics,3,1087.0,Aragon,Clara Molina
+ES-00296,2025-06-25,CUST-0094,Sofía Pascual,Monitor,Electronics,2,153.85,Extremadura,Javier Ortega
+ES-00297,2025-10-21,CUST-0100,Tomás Díaz,USB-C Hub,Accessories,4,64.58,Aragon,Eduardo Gómez
+ES-00298,2025-01-19,CUST-0041,Óscar Pascual,Keyboard,Accessories,3,104.68,Aragon,Elena Ramos
+ES-00299,2025-02-01,CUST-0065,Pablo Molina,Desk Lamp,Office,3,62.52,Catalonia,Pablo García
+ES-00300,2025-11-16,CUST-0060,Daniel Muñoz,Desk,Office,1,292.9,Basque Country,Javier Ortega
+ES-00301,2025-05-23,CUST-0023,Noelia Ortiz,Smartphone,Electronics,1,895.59,Castile-La Mancha,Eduardo Gómez
+ES-00302,2025-02-27,CUST-0085,Noelia Suárez,Laptop,Electronics,3,1809.13,Basque Country,Pablo García
+ES-00303,2025-07-09,CUST-0039,Paula Rodríguez,External SSD,Electronics,5,121.7,Canary Islands,Sofía Romero
+ES-00304,2025-09-28,CUST-0078,Carmen Sanz,Keyboard,Accessories,5,70.28,Andalusia,Carlos Navarro
+ES-00305,2025-09-11,CUST-0043,Rubén Rubio,Headphones,Electronics,4,146.37,Asturias,Diana Sánchez
+ES-00306,2025-11-23,CUST-0089,Laura Cabrera,External SSD,Electronics,1,197.66,Balearic Islands,Alejandro Ruiz
+ES-00307,2025-03-01,CUST-0052,Adrián Pascual,Desk Lamp,Office,1,53.73,Cantabria,Eduardo Gómez
+ES-00308,2025-09-30,CUST-0050,Sergio Navarro,USB-C Hub,Accessories,1,89.25,Asturias,Sofía Romero
+ES-00309,2025-03-16,CUST-0042,Rubén Navarro,Desk Lamp,Office,2,51.47,Aragon,Sofía Romero
+ES-00310,2025-12-14,CUST-0061,Marcos Delgado,Printer,Office,2,248.68,Catalonia,Beatriz Martín
+ES-00311,2025-08-10,CUST-0100,Tomás Díaz,Pen Set,Stationery,3,17.69,Castile-La Mancha,Laura Fernández
+ES-00312,2025-05-17,CUST-0085,Noelia Suárez,Desk Lamp,Office,4,37.66,Asturias,Sofía Romero
+ES-00313,2025-12-11,CUST-0083,Alicia Pérez,Backpack,Accessories,3,52.39,Murcia,Pablo García
+ES-00314,2025-06-10,CUST-0087,Jorge Pérez,Keyboard,Accessories,3,114.83,Andalusia,Alejandro Ruiz
+ES-00315,2025-02-20,CUST-0033,Iván Marín,Webcam,Electronics,2,133.71,Balearic Islands,Diana Sánchez
+ES-00316,2025-05-09,CUST-0081,Marta Romero,Desk,Office,1,108.48,Andalusia,Alejandro Ruiz
+ES-00317,2025-11-03,CUST-0006,Mario Carmona,Mouse,Accessories,3,66.52,Valencia,Beatriz Martín
+ES-00318,2025-07-12,CUST-0028,Lucía Durán,Headphones,Electronics,3,272.97,Galicia,Beatriz Martín
+ES-00319,2025-05-10,CUST-0061,Marcos Delgado,Keyboard,Accessories,1,113.16,Andalusia,Pablo García
+ES-00320,2025-05-22,CUST-0077,David Blanco,External SSD,Electronics,4,225.13,Murcia,Eduardo Gómez
+ES-00321,2025-02-07,CUST-0021,Jorge Suárez,Keyboard,Accessories,1,32.42,Asturias,Laura Fernández
+ES-00322,2025-05-13,CUST-0027,Nuria Molina,Monitor,Electronics,8,268.1,Extremadura,Beatriz Martín
+ES-00323,2025-04-13,CUST-0098,Rubén Crespo,USB-C Hub,Accessories,3,41.77,Cantabria,Beatriz Martín
+ES-00324,2025-10-04,CUST-0055,Ana Pastor,Headphones,Electronics,4,95.78,Valencia,Sofía Romero
+ES-00325,2025-02-22,CUST-0078,Carmen Sanz,Desk Lamp,Office,1,23.42,Castile-La Mancha,Sofía Romero
+ES-00326,2025-09-12,CUST-0071,Fernando Marín,Laptop,Electronics,1,1539.34,Catalonia,Pablo García
+ES-00327,2025-05-17,CUST-0044,Daniel Aguilar,Printer,Office,1,184.55,Asturias,Clara Molina
+ES-00328,2025-09-21,CUST-0014,Marcos Méndez,Laptop,Electronics,4,1669.99,Cantabria,Miguel Torres
+ES-00329,2025-02-05,CUST-0068,Teresa Molina,Printer,Office,2,80.06,Cantabria,Beatriz Martín
+ES-00330,2025-06-20,CUST-0055,Ana Pastor,Pen Set,Stationery,3,12.41,Andalusia,Laura Fernández
+ES-00331,2025-02-11,CUST-0028,Lucía Durán,Notebook,Stationery,5,14.41,Aragon,Pablo García
+ES-00332,2025-04-01,CUST-0014,Marcos Méndez,Mouse,Accessories,3,86.5,Castile and León,Eduardo Gómez
+ES-00333,2025-02-24,CUST-0088,Irene Medina,Printer,Office,3,193.96,Andalusia,Pablo García
+ES-00334,2025-04-08,CUST-0082,Alejandro Vidal,External SSD,Electronics,1,105.34,Canary Islands,Sofía Romero
+ES-00335,2025-02-02,CUST-0059,Adrián López,Printer,Office,4,284.89,Cantabria,Javier Ortega
+ES-00336,2025-01-09,CUST-0056,Tomás Fernández,External SSD,Electronics,1,72.45,Catalonia,Miguel Torres
+ES-00337,2025-04-19,CUST-0019,Noelia Navarro,Tablet,Electronics,5,659.47,Extremadura,Pablo García
+ES-00338,2025-10-24,CUST-0069,Ángel Prieto,Headphones,Electronics,1,57.73,Basque Country,Sofía Romero
+ES-00339,2025-08-30,CUST-0019,Noelia Navarro,Laptop,Electronics,6,1517.37,Canary Islands,Elena Ramos
+ES-00340,2025-01-08,CUST-0033,Iván Marín,Headphones,Electronics,1,51.99,Aragon,Beatriz Martín
+ES-00341,2025-11-09,CUST-0018,Adrián García,External SSD,Electronics,1,200.85,Valencia,Beatriz Martín
+ES-00342,2025-11-01,CUST-0034,Isabel Domínguez,USB-C Hub,Accessories,4,45.73,Castile and León,Miguel Torres
+ES-00343,2025-12-14,CUST-0016,Natalia Ramos,Notebook,Stationery,2,4.81,Basque Country,Laura Fernández
+ES-00344,2025-01-24,CUST-0040,Beatriz Suárez,Mouse,Accessories,3,37.83,Valencia,Eduardo Gómez
+ES-00345,2025-08-01,CUST-0088,Irene Medina,Headphones,Electronics,1,135.18,Galicia,Sofía Romero
+ES-00346,2025-10-25,CUST-0029,Óscar Moreno,Backpack,Accessories,1,41.0,Asturias,Carlos Navarro
+ES-00347,2025-09-07,CUST-0067,Ángel Romero,Laptop,Electronics,1,906.22,Andalusia,Elena Ramos
+ES-00348,2025-08-02,CUST-0015,Rocío Moreno,Desk,Office,3,415.9,Cantabria,Elena Ramos
+ES-00349,2025-04-16,CUST-0088,Irene Medina,Headphones,Electronics,1,109.45,Extremadura,Miguel Torres
+ES-00350,2025-03-31,CUST-0088,Irene Medina,Backpack,Accessories,3,33.51,Galicia,Elena Ramos
+ES-00351,2025-11-10,CUST-0029,Óscar Moreno,USB-C Hub,Accessories,7,83.96,Aragon,Laura Fernández
+ES-00352,2025-01-03,CUST-0041,Óscar Pascual,Webcam,Electronics,3,62.63,La Rioja,Beatriz Martín
+ES-00353,2025-10-04,CUST-0093,Miguel Herrera,Pen Set,Stationery,2,13.75,Castile and León,Eduardo Gómez
+ES-00354,2025-04-10,CUST-0016,Natalia Ramos,Monitor,Electronics,1,216.15,Cantabria,Sofía Romero
+ES-00355,2025-03-23,CUST-0013,Víctor Domínguez,Keyboard,Accessories,3,29.82,Balearic Islands,Eduardo Gómez
+ES-00356,2025-08-11,CUST-0062,Daniel Méndez,Mouse,Accessories,1,59.5,Extremadura,Alejandro Ruiz
+ES-00357,2025-01-27,CUST-0100,Tomás Díaz,Tablet,Electronics,7,305.64,Madrid,Sofía Romero
+ES-00358,2025-02-06,CUST-0039,Paula Rodríguez,Tablet,Electronics,6,698.41,Murcia,Miguel Torres
+ES-00359,2025-12-13,CUST-0017,Patricia Prieto,Mouse,Accessories,6,29.71,Valencia,Laura Fernández
+ES-00360,2025-02-20,CUST-0076,Laura Vidal,Backpack,Accessories,1,78.51,Castile and León,Miguel Torres
+ES-00361,2025-02-07,CUST-0082,Alejandro Vidal,Backpack,Accessories,2,87.13,Navarre,Carlos Navarro
+ES-00362,2025-11-09,CUST-0031,Javier Romero,Mouse,Accessories,2,41.82,Basque Country,Sofía Romero
+ES-00363,2025-11-20,CUST-0088,Irene Medina,Mouse,Accessories,2,32.77,Murcia,Carlos Navarro
+ES-00364,2025-12-21,CUST-0068,Teresa Molina,Monitor,Electronics,3,275.27,Valencia,Sofía Romero
+ES-00365,2025-08-03,CUST-0058,Ana Iglesias,External SSD,Electronics,1,141.46,Aragon,Clara Molina
+ES-00366,2025-11-23,CUST-0086,Tomás Méndez,Keyboard,Accessories,7,146.25,Canary Islands,Beatriz Martín
+ES-00367,2025-09-25,CUST-0092,Andrea Crespo,Webcam,Electronics,2,178.38,Cantabria,Sofía Romero
+ES-00368,2025-01-08,CUST-0044,Daniel Aguilar,Desk Lamp,Office,4,74.69,Canary Islands,Diana Sánchez
+ES-00369,2025-08-11,CUST-0053,Rocío Romero,Notebook,Stationery,3,16.38,Basque Country,Clara Molina
+ES-00370,2025-08-02,CUST-0094,Sofía Pascual,Laptop,Electronics,9,939.06,Cantabria,Elena Ramos
+ES-00371,2025-08-06,CUST-0032,Irene Pascual,Monitor,Electronics,2,364.67,Valencia,Sofía Romero
+ES-00372,2025-05-04,CUST-0005,Ángel Rodríguez,USB-C Hub,Accessories,1,95.79,Navarre,Diana Sánchez
+ES-00373,2025-07-03,CUST-0082,Alejandro Vidal,Headphones,Electronics,1,207.39,Andalusia,Alejandro Ruiz
+ES-00374,2025-12-09,CUST-0036,Lucía Aguilar,USB-C Hub,Accessories,2,91.11,Madrid,Sofía Romero
+ES-00375,2025-03-12,CUST-0048,Silvia Navarro,External SSD,Electronics,5,156.29,Balearic Islands,Pablo García
+ES-00376,2025-12-27,CUST-0045,Adrián Campos,External SSD,Electronics,3,265.49,Andalusia,Miguel Torres
+ES-00377,2025-09-29,CUST-0094,Sofía Pascual,Notebook,Stationery,1,9.39,Castile-La Mancha,Elena Ramos
+ES-00378,2025-12-17,CUST-0095,Carlos Pascual,Mouse,Accessories,1,79.83,Catalonia,Javier Ortega
+ES-00379,2025-01-27,CUST-0068,Teresa Molina,Pen Set,Stationery,1,11.68,Catalonia,Laura Fernández
+ES-00380,2025-03-31,CUST-0048,Silvia Navarro,Pen Set,Stationery,3,18.8,Castile and León,Carlos Navarro
+ES-00381,2025-05-03,CUST-0082,Alejandro Vidal,Notebook,Stationery,2,12.74,Castile and León,Elena Ramos
+ES-00382,2025-06-14,CUST-0089,Laura Cabrera,Backpack,Accessories,2,61.08,Navarre,Eduardo Gómez
+ES-00383,2025-02-02,CUST-0038,Irene Martínez,Monitor,Electronics,2,352.58,La Rioja,Javier Ortega
+ES-00384,2025-08-29,CUST-0021,Jorge Suárez,Tablet,Electronics,4,667.38,Aragon,Sofía Romero
+ES-00385,2025-12-11,CUST-0042,Rubén Navarro,Pen Set,Stationery,7,20.98,Andalusia,Diana Sánchez
+ES-00386,2025-02-14,CUST-0078,Carmen Sanz,External SSD,Electronics,1,274.51,Aragon,Beatriz Martín
+ES-00387,2025-03-26,CUST-0088,Irene Medina,Tablet,Electronics,1,680.9,Cantabria,Carlos Navarro
+ES-00388,2025-09-24,CUST-0093,Miguel Herrera,Mouse,Accessories,7,13.75,Navarre,Pablo García
+ES-00389,2025-08-31,CUST-0067,Ángel Romero,Headphones,Electronics,2,154.4,Madrid,Eduardo Gómez
+ES-00390,2025-02-02,CUST-0009,Lucía Sánchez,Mouse,Accessories,1,73.75,La Rioja,Pablo García
+ES-00391,2025-07-30,CUST-0088,Irene Medina,Notebook,Stationery,3,12.84,Murcia,Sofía Romero
+ES-00392,2025-08-23,CUST-0024,Sofía Martínez,External SSD,Electronics,2,90.67,Aragon,Carlos Navarro
+ES-00393,2025-04-27,CUST-0053,Rocío Romero,Desk Lamp,Office,2,92.75,Catalonia,Carlos Navarro
+ES-00394,2025-05-26,CUST-0049,Teresa Durán,Pen Set,Stationery,2,7.49,Galicia,Elena Ramos
+ES-00395,2025-04-04,CUST-0028,Lucía Durán,Desk,Office,8,434.73,Basque Country,Carlos Navarro
+ES-00396,2025-03-01,CUST-0080,Óscar Díaz,Backpack,Accessories,1,67.0,Basque Country,Sofía Romero
+ES-00397,2025-07-09,CUST-0023,Noelia Ortiz,Desk Lamp,Office,1,61.31,Catalonia,Pablo García
+ES-00398,2025-06-26,CUST-0039,Paula Rodríguez,Notebook,Stationery,1,9.73,Galicia,Javier Ortega
+ES-00399,2025-03-04,CUST-0038,Irene Martínez,Desk,Office,6,260.82,Cantabria,Carlos Navarro
+ES-00400,2025-06-13,CUST-0040,Beatriz Suárez,External SSD,Electronics,1,291.84,La Rioja,Laura Fernández
+ES-00401,2025-08-31,CUST-0048,Silvia Navarro,Desk,Office,6,486.84,Basque Country,Clara Molina
+ES-00402,2025-06-23,CUST-0069,Ángel Prieto,External SSD,Electronics,3,234.59,Catalonia,Carlos Navarro
+ES-00403,2025-06-07,CUST-0090,Alejandro Durán,Tablet,Electronics,1,623.62,Canary Islands,Sofía Romero
+ES-00404,2025-02-17,CUST-0036,Lucía Aguilar,Pen Set,Stationery,2,16.77,Castile and León,Clara Molina
+ES-00405,2025-05-23,CUST-0026,Cristina Rubio,Backpack,Accessories,1,39.03,Extremadura,Pablo García
+ES-00406,2025-09-20,CUST-0029,Óscar Moreno,Smartphone,Electronics,2,763.99,La Rioja,Alejandro Ruiz
+ES-00407,2025-07-23,CUST-0078,Carmen Sanz,Pen Set,Stationery,1,21.93,Balearic Islands,Miguel Torres
+ES-00408,2025-01-07,CUST-0094,Sofía Pascual,Pen Set,Stationery,1,11.38,Extremadura,Javier Ortega
+ES-00409,2025-04-21,CUST-0021,Jorge Suárez,Smartphone,Electronics,4,715.43,Navarre,Sofía Romero
+ES-00410,2025-03-25,CUST-0037,Paula Pastor,Desk,Office,5,487.14,Navarre,Elena Ramos
+ES-00411,2025-03-13,CUST-0025,Beatriz Rodríguez,Webcam,Electronics,5,121.1,Basque Country,Diana Sánchez
+ES-00412,2025-09-01,CUST-0036,Lucía Aguilar,Desk,Office,9,309.12,Murcia,Beatriz Martín
+ES-00413,2025-02-15,CUST-0077,David Blanco,Printer,Office,1,283.42,Castile-La Mancha,Miguel Torres
+ES-00414,2025-10-12,CUST-0098,Rubén Crespo,Keyboard,Accessories,2,100.67,Basque Country,Diana Sánchez
+ES-00415,2025-07-15,CUST-0038,Irene Martínez,Keyboard,Accessories,1,90.23,Aragon,Clara Molina
+ES-00416,2025-09-10,CUST-0039,Paula Rodríguez,Desk,Office,3,284.38,Madrid,Alejandro Ruiz
+ES-00417,2025-05-15,CUST-0065,Pablo Molina,Headphones,Electronics,1,205.54,Cantabria,Beatriz Martín
+ES-00418,2025-08-02,CUST-0092,Andrea Crespo,Desk,Office,1,461.72,Canary Islands,Alejandro Ruiz
+ES-00419,2025-05-22,CUST-0047,Carmen Blanco,Tablet,Electronics,2,877.85,Balearic Islands,Clara Molina
+ES-00420,2025-10-17,CUST-0077,David Blanco,USB-C Hub,Accessories,2,49.24,Cantabria,Elena Ramos
+ES-00421,2025-07-11,CUST-0017,Patricia Prieto,Tablet,Electronics,2,593.19,Castile-La Mancha,Carlos Navarro
+ES-00422,2025-03-16,CUST-0022,Pablo Vázquez,Monitor,Electronics,2,544.24,Basque Country,Laura Fernández
+ES-00423,2025-01-28,CUST-0044,Daniel Aguilar,Keyboard,Accessories,1,80.63,Balearic Islands,Alejandro Ruiz
+ES-00424,2025-05-30,CUST-0057,Paula Gómez,Desk,Office,2,473.53,La Rioja,Diana Sánchez
+ES-00425,2025-02-18,CUST-0046,Mario Méndez,Keyboard,Accessories,3,46.56,Murcia,Laura Fernández
+ES-00426,2025-05-19,CUST-0085,Noelia Suárez,Desk,Office,3,374.34,Valencia,Javier Ortega
+ES-00427,2025-03-15,CUST-0007,Teresa Martínez,Pen Set,Stationery,1,14.88,Balearic Islands,Sofía Romero
+ES-00428,2025-06-24,CUST-0002,María Carmona,Webcam,Electronics,6,58.48,Castile and León,Carlos Navarro
+ES-00429,2025-04-07,CUST-0045,Adrián Campos,Backpack,Accessories,4,96.04,La Rioja,Javier Ortega
+ES-00430,2025-08-02,CUST-0083,Alicia Pérez,Tablet,Electronics,2,234.01,Basque Country,Alejandro Ruiz
+ES-00431,2025-06-28,CUST-0003,Adrián Vega,USB-C Hub,Accessories,2,59.08,Extremadura,Clara Molina
+ES-00432,2025-03-30,CUST-0093,Miguel Herrera,Notebook,Stationery,4,3.43,Valencia,Diana Sánchez
+ES-00433,2025-12-22,CUST-0054,Paula Vidal,Headphones,Electronics,1,97.91,Basque Country,Diana Sánchez
+ES-00434,2025-02-10,CUST-0032,Irene Pascual,Headphones,Electronics,2,237.39,Valencia,Beatriz Martín
+ES-00435,2025-09-05,CUST-0003,Adrián Vega,Laptop,Electronics,4,941.52,Valencia,Alejandro Ruiz
+ES-00436,2025-08-29,CUST-0021,Jorge Suárez,Monitor,Electronics,1,262.86,Andalusia,Eduardo Gómez
+ES-00437,2025-02-19,CUST-0083,Alicia Pérez,Laptop,Electronics,4,1819.1,Castile and León,Clara Molina
+ES-00438,2025-04-05,CUST-0039,Paula Rodríguez,Mouse,Accessories,3,14.25,Basque Country,Elena Ramos
+ES-00439,2025-10-24,CUST-0082,Alejandro Vidal,Desk Lamp,Office,2,30.36,La Rioja,Elena Ramos
+ES-00440,2025-09-16,CUST-0029,Óscar Moreno,Backpack,Accessories,3,40.89,Madrid,Javier Ortega
+ES-00441,2025-04-09,CUST-0009,Lucía Sánchez,Mouse,Accessories,8,25.23,Madrid,Elena Ramos
+ES-00442,2025-04-20,CUST-0067,Ángel Romero,Tablet,Electronics,6,791.93,Cantabria,Laura Fernández
+ES-00443,2025-08-14,CUST-0045,Adrián Campos,Keyboard,Accessories,3,38.49,Balearic Islands,Miguel Torres
+ES-00444,2025-04-20,CUST-0040,Beatriz Suárez,Webcam,Electronics,2,93.69,Murcia,Beatriz Martín
+ES-00445,2025-02-26,CUST-0080,Óscar Díaz,External SSD,Electronics,2,178.0,Balearic Islands,Elena Ramos
+ES-00446,2025-10-13,CUST-0041,Óscar Pascual,Desk,Office,4,131.9,Cantabria,Beatriz Martín
+ES-00447,2025-05-26,CUST-0076,Laura Vidal,Printer,Office,2,314.58,Extremadura,Diana Sánchez
+ES-00448,2025-05-29,CUST-0085,Noelia Suárez,Webcam,Electronics,9,96.63,Andalusia,Sofía Romero
+ES-00449,2025-04-02,CUST-0080,Óscar Díaz,Pen Set,Stationery,1,18.16,Valencia,Miguel Torres
+ES-00450,2025-09-25,CUST-0023,Noelia Ortiz,External SSD,Electronics,3,79.4,Basque Country,Miguel Torres
+ES-00451,2025-12-22,CUST-0055,Ana Pastor,Printer,Office,3,111.55,Galicia,Beatriz Martín
+ES-00452,2025-04-12,CUST-0100,Tomás Díaz,Pen Set,Stationery,2,16.49,Asturias,Beatriz Martín
+ES-00453,2025-08-06,CUST-0059,Adrián López,Backpack,Accessories,4,62.42,Castile-La Mancha,Pablo García
+ES-00454,2025-07-02,CUST-0007,Teresa Martínez,Printer,Office,2,272.01,Asturias,Sofía Romero
+ES-00455,2025-03-17,CUST-0061,Marcos Delgado,Desk Lamp,Office,4,26.32,Castile-La Mancha,Sofía Romero
+ES-00456,2025-04-29,CUST-0004,Paula González,USB-C Hub,Accessories,3,37.65,Valencia,Elena Ramos
+ES-00457,2025-02-04,CUST-0034,Isabel Domínguez,Monitor,Electronics,2,161.04,Galicia,Miguel Torres
+ES-00458,2025-03-20,CUST-0092,Andrea Crespo,Notebook,Stationery,2,12.35,Andalusia,Pablo García
+ES-00459,2025-08-27,CUST-0054,Paula Vidal,USB-C Hub,Accessories,1,87.24,Cantabria,Javier Ortega
+ES-00460,2025-10-05,CUST-0079,Beatriz Blanco,Desk Lamp,Office,2,84.19,Madrid,Alejandro Ruiz
+ES-00461,2025-03-02,CUST-0048,Silvia Navarro,Webcam,Electronics,2,80.3,Asturias,Sofía Romero
+ES-00462,2025-01-19,CUST-0071,Fernando Marín,External SSD,Electronics,1,192.6,Aragon,Elena Ramos
+ES-00463,2025-09-09,CUST-0084,Mario Moreno,Keyboard,Accessories,2,66.18,Asturias,Sofía Romero
+ES-00464,2025-10-19,CUST-0052,Adrián Pascual,Tablet,Electronics,3,654.26,Cantabria,Sofía Romero
+ES-00465,2025-09-17,CUST-0064,Gonzalo Cabrera,Keyboard,Accessories,1,59.56,Asturias,Clara Molina
+ES-00466,2025-05-26,CUST-0052,Adrián Pascual,Pen Set,Stationery,2,4.59,Catalonia,Carlos Navarro
+ES-00467,2025-06-28,CUST-0049,Teresa Durán,Pen Set,Stationery,5,16.26,Murcia,Miguel Torres
+ES-00468,2025-08-08,CUST-0046,Mario Méndez,Tablet,Electronics,2,436.3,Balearic Islands,Alejandro Ruiz
+ES-00469,2025-05-07,CUST-0052,Adrián Pascual,Backpack,Accessories,1,66.45,Andalusia,Elena Ramos
+ES-00470,2025-06-06,CUST-0047,Carmen Blanco,Smartphone,Electronics,1,427.27,Murcia,Alejandro Ruiz
+ES-00471,2025-12-03,CUST-0063,Manuel Iglesias,External SSD,Electronics,5,195.33,Navarre,Eduardo Gómez
+ES-00472,2025-12-23,CUST-0063,Manuel Iglesias,Laptop,Electronics,2,921.24,Murcia,Miguel Torres
+ES-00473,2025-06-15,CUST-0005,Ángel Rodríguez,Printer,Office,3,337.66,Valencia,Elena Ramos
+ES-00474,2025-06-22,CUST-0052,Adrián Pascual,Mouse,Accessories,2,74.48,Murcia,Carlos Navarro
+ES-00475,2025-07-06,CUST-0034,Isabel Domínguez,Desk,Office,8,179.7,Andalusia,Javier Ortega
+ES-00476,2025-05-28,CUST-0024,Sofía Martínez,Mouse,Accessories,1,34.89,Asturias,Diana Sánchez
+ES-00477,2025-10-24,CUST-0015,Rocío Moreno,Smartphone,Electronics,1,602.68,Andalusia,Clara Molina
+ES-00478,2025-08-07,CUST-0079,Beatriz Blanco,USB-C Hub,Accessories,1,99.79,Aragon,Javier Ortega
+ES-00479,2025-08-10,CUST-0012,Nuria Sánchez,Desk,Office,3,224.34,Navarre,Miguel Torres
+ES-00480,2025-11-16,CUST-0035,Marcos López,Desk Lamp,Office,2,69.71,Galicia,Alejandro Ruiz
+ES-00481,2025-10-23,CUST-0005,Ángel Rodríguez,Keyboard,Accessories,2,113.21,Extremadura,Eduardo Gómez
+ES-00482,2025-10-17,CUST-0066,Elena Vega,Webcam,Electronics,4,43.62,Castile and León,Laura Fernández
+ES-00483,2025-03-17,CUST-0064,Gonzalo Cabrera,External SSD,Electronics,1,238.14,Aragon,Miguel Torres
+ES-00484,2025-06-13,CUST-0025,Beatriz Rodríguez,Webcam,Electronics,5,166.2,Castile and León,Miguel Torres
+ES-00485,2025-05-27,CUST-0089,Laura Cabrera,Desk Lamp,Office,3,37.75,Canary Islands,Miguel Torres
+ES-00486,2025-02-28,CUST-0031,Javier Romero,Backpack,Accessories,1,32.32,Aragon,Sofía Romero
+ES-00487,2025-10-14,CUST-0060,Daniel Muñoz,USB-C Hub,Accessories,10,64.67,Catalonia,Diana Sánchez
+ES-00488,2025-05-20,CUST-0072,Andrea Nieto,Keyboard,Accessories,1,58.88,Castile-La Mancha,Pablo García
+ES-00489,2025-11-26,CUST-0092,Andrea Crespo,Keyboard,Accessories,5,154.11,Cantabria,Alejandro Ruiz
+ES-00490,2025-02-12,CUST-0011,Paula Herrera,Monitor,Electronics,2,283.09,Andalusia,Miguel Torres
+ES-00491,2025-12-10,CUST-0055,Ana Pastor,Pen Set,Stationery,3,5.9,Basque Country,Diana Sánchez
+ES-00492,2025-10-20,CUST-0088,Irene Medina,Tablet,Electronics,4,850.71,La Rioja,Pablo García
+ES-00493,2025-09-12,CUST-0056,Tomás Fernández,Desk Lamp,Office,6,36.33,Valencia,Laura Fernández
+ES-00494,2025-10-27,CUST-0086,Tomás Méndez,Notebook,Stationery,4,15.09,Canary Islands,Miguel Torres
+ES-00495,2025-03-15,CUST-0005,Ángel Rodríguez,Mouse,Accessories,1,28.49,Castile-La Mancha,Sofía Romero
+ES-00496,2025-05-11,CUST-0020,Rocío Medina,Webcam,Electronics,5,43.05,Balearic Islands,Elena Ramos
+ES-00497,2025-06-12,CUST-0025,Beatriz Rodríguez,Tablet,Electronics,3,520.89,Canary Islands,Eduardo Gómez
+ES-00498,2025-07-05,CUST-0038,Irene Martínez,Headphones,Electronics,2,134.61,Aragon,Alejandro Ruiz
+ES-00499,2025-12-06,CUST-0087,Jorge Pérez,Monitor,Electronics,4,173.6,Canary Islands,Eduardo Gómez
+ES-00500,2025-06-08,CUST-0053,Rocío Romero,Printer,Office,3,303.2,Valencia,Javier Ortega
